@@ -43,7 +43,7 @@ Musicost 에서는 이부분에 초점을 맞췄습니다.
 
 ## Action - 0.1 version
 
-![musictie-whiteboard](https://user-images.githubusercontent.com/897510/40409709-adc927e0-5ea6-11e8-9877-7f0bf09dd2b2.jpeg)
+![musicost](https://user-images.githubusercontent.com/18088193/44039229-9d857134-9f53-11e8-9f5d-81800a914192.png)
 
 1. OOO 음악 요청
   - from : 리스너
