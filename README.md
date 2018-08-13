@@ -27,7 +27,7 @@ Musicost 에서는 이부분에 초점을 맞췄습니다.
 ![musicost](https://user-images.githubusercontent.com/18088193/44040931-7351503c-9f57-11e8-93f1-a49dcddaf995.png)
 
 1. OOO 음악 요청
-한 곡당 0.02NHE가 결제
+한 곡당 0.02NHE가 결제(
 
 2. 실시간 음원 이용량 데이터를 통한 차트 생성
 
