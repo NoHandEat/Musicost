@@ -19,7 +19,7 @@ Musicost 에서는 이부분에 초점을 맞췄습니다.
 - 신민종
 - 노승엽
 - 김경환
-- 오다연 : Github, 
+- 오다연 : Github
 
 ## Roadmap
 
